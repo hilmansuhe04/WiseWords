@@ -2,7 +2,7 @@
 [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)  [Teknik Informatika](http://if.uinsgd.ac.id/) 
 # WiseWords
 
-Anggota : 
+Anggota : <br>
 Derryl Muhammad Afuza Ramadhan 1187050021 <br>
 Hilman Suhendar 1207050045 <br>
 Indah Sri Lestari 1207050048 <br>
