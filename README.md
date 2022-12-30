@@ -17,5 +17,7 @@ Aplikasi ini memiliki fitur yang menarik, seperti:
 
 Mulai menemukan kutipan yang akan menginspirasi Anda hari ini dengan mengunduh Wise Words di Play Store.
 
-https://pitch.com/public/02dac756-bd01-4b92-a223-8efb2894b38c/89fe3038-9c3c-452b-b654-e932daae8a73
+[Pitch Deck](https://pitch.com/public/02dac756-bd01-4b92-a223-8efb2894b38c/89fe3038-9c3c-452b-b654-e932daae8a73)
+<br>
+[Link Aplikasi di Goole Play Store](https://play.google.com/store/apps/details?id=com.uas.kelompok7)
 
