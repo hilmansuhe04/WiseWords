@@ -1,12 +1,12 @@
 # UAS Pengembangan Aplikassi Mobile
-[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+[UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)  [Teknik Informatika](http://if.uinsgd.ac.id/) 
 # WiseWords
 
 Anggota : 
-Derryl Muhammad Afuza Ramadhan 1187050021
-Hilman Suhendar 1207050045
-Indah Sri Lestari 1207050048
-Mochammad Apip Tanuwijaya 1207050062
+Derryl Muhammad Afuza Ramadhan 1187050021 <br>
+Hilman Suhendar 1207050045 <br>
+Indah Sri Lestari 1207050048 <br>
+Mochammad Apip Tanuwijaya 1207050062 <br>
 
 Mencari kutipan motivasi yang akan membantu Anda mencapai tujuan Anda? Wise Words adalah aplikasi yang tepat untuk Anda. Kami menyediakan kumpulan kutipan terbaik dari para pemimpin, filsuf, dan tokoh terkenal lainnya yang akan memberikan pengingat, inspirasi dan semangat kepada Anda.
 
