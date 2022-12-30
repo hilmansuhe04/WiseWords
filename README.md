@@ -1,5 +1,5 @@
 # UAS Pengembangan Aplikassi Mobile
-Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 # WiseWords
 
 Anggota : 
